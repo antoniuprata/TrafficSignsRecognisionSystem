@@ -24,6 +24,14 @@ Principalele obiective ale acestui proiect sunt:
 
 ## Resurse suplimentare
 
+Pentru rularea proiectului avem nevoie de urmatoarele pachete:
+- pip install tensorflow 
+- pip install tensorflow keras 
+- pip install tensorflow sklearn 
+- pip install tensorflow matplotlib 
+- pip install tensorflow pandas 
+- pip install tensorflow pil
+
 ## Echipă
 
 Proiectul "Traffic Signs Recognition" este dezvoltat de către echipa noastră pasionată de inteligența artificială și învățarea adâ
