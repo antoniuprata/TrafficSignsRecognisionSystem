@@ -34,10 +34,6 @@ Pentru rularea proiectului avem nevoie de urmatoarele pachete:
 
 ## Echipă
 
-Proiectul "Traffic Signs Recognition" este dezvoltat de către echipa noastră pasionată de inteligența artificială și învățarea adâ
-
-ncă.
-
 - Ion Popescu
 - Plăcinta Ștefan
 - Prața Antoniu-Emanuel
